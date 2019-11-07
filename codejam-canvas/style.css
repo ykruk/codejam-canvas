@@ -14,6 +14,7 @@ body {
   height: 48px;
   line-height: 48px;
 
+  background-color: white;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.24), 0 0 4px rgba(0, 0, 0, 0.12);
 }
 .header-menu--icon {
@@ -44,8 +45,9 @@ body {
   line-height: 48px;
   width: 60px;
   font-size: 20px;
+  font-weight: 700;
   font-family: "Roboto", "Arial", sans-serif;
-  color: rgba(182, 140, 140, 0.57);
+  color: rgba(0, 0, 0, 0.57);
 
   background-color: white;
   border: 0;
